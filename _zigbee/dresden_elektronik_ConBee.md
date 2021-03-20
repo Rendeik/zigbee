@@ -5,7 +5,7 @@ title: ConBee Zigbee USB Gateway
 category: coordinator
 supports: coordinator
 zigbeeid: none
-compatible: [deconz,zha]
+compatible: [deconz,zha,z2m]
 mlink: https://phoscon.de/en/conbee
 link: https://www.amazon.de/dp/B01FDWOIHK/
 link2: 
